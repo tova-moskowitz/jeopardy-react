@@ -1,0 +1,18 @@
+body {
+}
+
+.questionColumn {
+  border: black 1px solid;
+  background-color: #2e5fad;
+  color: #ffff;
+  height: 180px;
+  width: 180px;
+}
+
+.category {
+  width: 180px;
+  height: 90px;
+  background-color: #2e5fad;
+  border: black 1px solid;
+  color: #ffff;
+}
